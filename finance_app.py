@@ -42,4 +42,4 @@ class Bill:
         return f"Total amount spent ==> {self.totalspent}"    
 
 
-#Yet to be
+ # Comment 1 removed for the change 
